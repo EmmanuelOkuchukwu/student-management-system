@@ -12,7 +12,7 @@ class Home extends React.Component {
                 <HomeHeader/>
                 <BannerContainer>
                     <MainText>
-                        <MainHeading>Welcome to the Admin Dashboard!sxcf</MainHeading>
+                        <MainHeading>Welcome to the Admin Dashboard!</MainHeading>
                         <Text>
                             Click the button below in order to log in and gain full access to the dashboard
                         </Text>
